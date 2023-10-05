@@ -93,7 +93,7 @@ const App = () => {
     </div>
     <div className='row mb-5'>
       <div className='col'></div>
-      <div className='col-9 col-sm-8 col-md-6 col-lg-5 text-bg-dark border border-warning border-5 rounded-4 p-2'>
+      <div className='col-10 col-sm-8 col-md-6 col-lg-5 text-bg-dark border border-warning border-5 rounded-4 p-2'>
         <div className='row mt-3 mb-4'>
           <div className="col"></div>
           <div className="col-10 text-bg-secondary rounded-2 p-2 border border-2 border-white">
